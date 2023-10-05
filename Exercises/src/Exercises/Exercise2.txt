@@ -1,0 +1,1 @@
+Crie uma aplicação que tenha um campo de texto. Registre um evento de teclado para o campo de texto e exiba o que o usuário digitou em tempo real em um rótulo ou em outro campo de texto na mesma janela.
